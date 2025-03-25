@@ -52,5 +52,5 @@ task_management/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/aanyas_24/task-management-api.git
-cd task-management-api
+git clone https://github.com/aanyas_24/Django-Project---JOSH.git
+cd Django-Project---JOSH
